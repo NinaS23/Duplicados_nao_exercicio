@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         List<String> pokemons = new ArrayList<>();
 
         pokemons.add("Ditto");
